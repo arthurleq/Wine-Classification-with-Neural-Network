@@ -2,6 +2,8 @@
 
 This project demonstrates the classification of wine origins using a Multilayer Perceptron (MLP) implemented with PyTorch.
 
+Was created with the help of https://github.com/zankerx
+
 The notebook explores the complete machine learning workflow:
 - data loading,
 - preprocessing,
